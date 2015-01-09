@@ -1,0 +1,19 @@
+FTP vs Sistemas de control de versiones
+
+el mejor GITHUB
+
+REPOSITORIO DE CÓDIGO GITHUB (MASTER)
+
+1. Múltiples versiones del mismo código
+2. Cambios Delta (solo sube lo que esta actualizado no todo el archivo completo)
+	Bases de Datos atómica del código
+3. Historial de cada archivo
+4. Multiples personas
+5. Culpa al culpable
+6. Ramas (branches)
+	* master (github.com) REPO PRINCIPAL
+	* master (disco duro) REPO LOCAL
+		* master
+			— MERGE (experimental - master)
+		* experimental local
+	* master (servidor.com) REPO PRODUCCION
