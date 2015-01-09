@@ -1,6 +1,20 @@
 FTP vs Sistemas de control de versiones
+Transmisión de archivos
+Hosting barato y normal --> /public_html <-- FTP
+	index.php
+	leonidas.jpg
 
-el mejor GITHUB
+
+SISTEMA DE CONTROL DE VERSIONES
+SVN: Subversion / Mercurial /TFS / CVS / GIT
+github:
+
+1. Red social de programadores
+2. Web / App
+3. Mundo mas fácil
+
+****
+
 
 REPOSITORIO DE CÓDIGO GITHUB (MASTER)
 
