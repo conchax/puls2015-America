@@ -3,7 +3,7 @@ Transmisión de archivos
 Hosting barato y normal --> /public_html <-- FTP
 	index.php
 	leonidas.jpg
-
+	www.url.com
 
 SISTEMA DE CONTROL DE VERSIONES
 SVN: Subversion / Mercurial /TFS / CVS / GIT
