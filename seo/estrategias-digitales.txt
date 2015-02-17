@@ -1,0 +1,187 @@
+estrategias digitales
+llevar nuestro negocio en linea
+
+
+- 2 tipos INBOUND VS OUTBOUND
+
+INBOUND: estrategias cuyo resultado son a largo plazo
+
+OUTBOUND: resultados imendiatos
+
+SEM : Marketing en buscadores
+
+Porque invertir en google adwords
+
+tiene el alcance del 80% en internet (red display) buscador de mas de 1000 millones de busquedas al mes
+alcance mostraran ls anucios en el momento mas presiso
+
+
+TRUCOS Y TIPS PARA MEJORAR EN ADWORKS
+-Trucos para Adwords
+	-mejorar el conversion rate
+		Ad Quality
+		keywords efectivos
+		calidad de Landing Page
+		Campaign Management
+	-Mejorar el ROI
+		ROI(Gananci-costo)/(Costos)*100
+		Tasa de Conversión
+		Calidad de trafico
+		Costo del Tráfico (CTR y Keywords)
+	-Escribir buen Copy
+		Usar keyword en Ad
+		Capitalizar URL
+		Usar numeros y Precios
+		Escribe los veneficios en vez de features
+		Mismas Palabras que landing
+		solo palabras que cumplan función
+		lenguaje positivo
+		que toque clickear para saber
+
+	-Eliminar Tráfico no productivo
+		Exac Match keywords y negative
+		geolocalización
+		search network o display
+		precio en el Ad
+
+	-Controlar tu AD Position
+		trata de no quedar en primero
+		Si hay mucha competencia 1ro en 2do página
+		Minimum bid siempre
+		bidding cycles segun hora
+
+	- Usar display network
+		templates de banners
+		ads anfocados en branding
+		campañas CPM
+
+
+
+SEO mas que buena practica
+	-indexacion
+	-como funciona un robot saturarlas
+	-factores on-site
+	-metags
+		-titulos de 60 entre 70 caracteres (cada pagina con titulo diferente)
+		-description 155 a 160 caracteres (cada pagina con descripcion diferente)
+
+	-headers
+		h1 h2 h3 h4 solo un h1 por pagina
+		buena estructura  (mejor url, titulo, navegacion, h1)
+		google imagenes optimizacion (nombre dela imagen alt relacionado con lo que es)
+
+	-el contenido
+		lo mas importante de una web
+		se recimienda escribir entre 300 y 500 palabras por articulo
+		hacer enfasis a ciertas partes del ontenido con negritas e itálicas
+		no puede ser contenido duplicado
+
+	-densidad de la palabra
+		cauntas veces aparece perro de 100 palabras (mide la densidad de palabras http://tools.seobook.com/general/keyword-density/)
+		copyscape (pera ver quien copia tu contenido) / diplichecker.com
+
+		free monitor for google, semrush.com
+
+	-linkbuilding como conseguir enlaces a nuestra web
+		-pagerank (formula amtematica que mide la popularidad de una determinada web marcando de 0 a 10) / agregar a directorios
+		-estrategia de linkbuilding
+			alta en buscadores y directorios gratuitos y de pago
+			intercambios de enlaces
+			notas de prensa
+			menciones en blogs
+			compra de enlaces
+		-Anchosr text (es la palabra o frace con la que se alcanza a una página)	
+
+		-interlinking interno
+		-scrappers copia el contenido de una página web
+
++conseptos basicos de la publicidad en google adwords
+	-red de busqueda (cuando hago una busqueda con determinada acción)
+	-display (anuncios) banners
+
+	-CPC o PPC Cost per click // costo por click
+	-CPM costo por cada mil impresiones
+	-CPA Costo por adquisición (convercion= que el usuario se refgistre, compre, se logee, compre mis servicios, newsletter)
+	-CPV costo por vista // view (pagas cundo alguien vio tu video)
+	-ROI Retur in investment (si invierto $1000 y gano $2000, el ROI esta funcionando)
+	-1campaña, 2grupo de anuncios, 3anuncios, 4palabras clave
+	-relevancia *nuestra mejor amiga en adwords
+
+	KPI  Indicador clave de desempeño, (o también Indicador clave de rendimiento)
+		-que me conoscan  = pagar por impresion CPM
+		-que me compren = Costo por adquisision CPA
+		-que me visiten = CPC  
+
+INTRODUCCION AL SEO (optimizacion para motores de busqueda)
+	conjunto de tecnicas que permite mejorar la posición den la que aparece una página web
+
+	-una buena accesibilidad es indispensable para lograr un buen posicionamiento web. La usabilidad radica en la facilidad de uso y disposición de la información pora parte de los usuarios, donde tambiñen se incluyen a los spyders
+	-algoritmo
+	-pagerank
+	-evolucion del posicionamiento en buscadores
+	 	-metadatos y contenido 95-99
+	 	-enlaces 2000
+	 	-penalizaciones onpage 2004-05
+	 	-contenidos duplicados 2006
+	 	-unoversal search 2007
+	 	-penalizaciones enlaces 2008
+	 	-no follow 2008
+	 	-resultados personalizados 2009
+	 	-busqueda en tiempo real 2010
+	 	-panda update 2011
+	 	-penguin 2012
+	 	- Hummingbird
+	 		-una busqueda es mas que palabras clave
+	 			-es 1 contexto espacial
+	 			-es 1 contexto humano
+	 			-es 1 contexto de historia de búsqueda
+
+	 		google intenta determinar la intención en base a conceptos clasificados como "expresiones" el buscador debe entender lo que realmente le estamos preguntando
+
+	 		-Proceso de Hummingbird
+	 		 -el buscador de google funciona en base a algoritmos matematicos (probabilidades)
+	 		 -el comportamiento de esos algoritmos es condicionado por multiples parametros linguisticos y estadisticos
+	 		 -estos parametros son calculaods gracias a una batería de <<clasifiers>>
+
+	 		la busqueda con móvil ha hecho evolucionar el algoritmo para dar respuesta a preguntas o busquedas mas complejas
+
+	 		esta actualizacion introduce nuevos clasifiers relacionados con semantica: introduccion de la nocion de <concepto>
+
+	 		terminos ausentes: proposición de resultados mas aplios con palabras tachadas (termino ausente) en busquedas amplias long tail
+
+	 		La presencia de tñermino ausentes es la prueba de la presencia Hummingbird
+
+	 		-que impacto SEO?
+	 			-textos mas concisos y estructurados
+	 			-pensar en responder preguntas en lugar de palabras clave
+	 			-optimizar mas las oportunidades de busqueda LONG TAIL
+	 			-veracidad de econtenido: actualizar datos que Google puede comparar con su base de datos
+
+	 		mas que la posición, hay que analizar la intención de la búsqueda del usuario, la interpretación por Goolgle y la diversidad de lso resultados
+			
+			- como hago que google visite mi pagina web?	 
+				-ofrecer resultados relevantes para las busquedas del usuario
+				-ofrecer contenidos de calidad
+				-ofrecer un contenido fresco / actual
+				-optimizacion del contenido
+				-popularidad
+
+				+keyword research		
+					un keyword research es un estudio de palabras clave por las cuales queremos que la gente identifique y encuentre nuestro sitio web
+
+					el keyword research va a marcar la estructura de la web, el enlazado interno y la clasificación de los contenidos de la web.
+					 Objetivo de hacer un keyword research es encontrar palabras que nos puedan aportar trafico a nuestro sitio web
+
+				+Clasificación Keywords
+					antes de empezar a crear el listado de palabras clave ttenemos que tener claras que tipos de keyword existen, para ello podemos clasificar las palabras clave de distintas maneras
+					-head tail = busquedas generales mucho trafico pero pocas conversiones
+					-medium tail =busuqedas especificas
+					-long tail = busquedas nuy especificas  poco trafico pero mayor efectividad de conversion
+
+					Brandin: Busquedas que incluyen el nombre de la marca. El usuario sabe lo que esta buscando, por lo tanto las conversiones con este tipo de keyword es alta. Este tipo de palabras no hce falta trabajarlas a conciencia ya que son fáciles de posicionar pe mejorandola
+
+					Genereicas: son palabras head tail, son busquedas muy genericas que no concretan nada, por lo tanto el porcentaje de conversiñon va a ser muy bajo, pe marketing online
+
+					Descriptivas: Palabras que describen un producto o servicio, son palabras long tail que hay que trabajar ya que el porcentaje de conversión puede ser elevado pe curso de seo (basico y avanzado)
+
+					Productos: Palabras muy concretas con el nombre y marca de un producto, la intencion puede ser de compra o para tener información acerca del producto. pe curso seo de mejorandola

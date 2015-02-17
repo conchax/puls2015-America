@@ -1,4 +1,4 @@
-vvar tablero, direccion;
+var tablero, direccion;
 
 var teclas =
 {
@@ -26,7 +26,7 @@ var tifis = {
 var liz = {
 	lizURL: "liz.png",
 	lizOK:false,
-	x:400,
+	x:200,
 	y:200
 };
 
